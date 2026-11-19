@@ -1,2 +1,0 @@
-# ResonanceScript
-Ёлка
